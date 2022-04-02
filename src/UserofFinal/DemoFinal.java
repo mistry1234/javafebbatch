@@ -9,15 +9,18 @@ public class DemoFinal {
    }
     
    static {
-   c=40;
+   c=40
+	   System.out.print("Static block c="+c);
+	   
 }
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		 int a=10;
-		a=40;
-		
+		DemoFinal d= new DemoFinal();
+		DemoFinal d1= new DemoFinal();
+		DemoFinal d2= new DemoFinal();
+		DemoFinal d3= new DemoFinal();
 	}
 
 }
