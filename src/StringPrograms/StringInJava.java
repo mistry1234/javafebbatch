@@ -14,12 +14,6 @@ public class StringInJava {
 		
 		
 		String s3="created string for git demo";
-	
-	
-
-		
-		
-		
 		
 		
 		
