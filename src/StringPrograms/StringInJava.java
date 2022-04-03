@@ -13,8 +13,7 @@ public class StringInJava {
 		System.out.print(s.trim());
 		
 		
-		String s3="created string for git demo";
-		
+		String s3="Created string for git demo";
 		
 		
 		
