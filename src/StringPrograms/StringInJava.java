@@ -11,6 +11,9 @@ public class StringInJava {
 		
 		System.out.print (s);
 		System.out.print(s.trim());
+		
+		
+		String s3="created string for git demo";
 	
 	
 
