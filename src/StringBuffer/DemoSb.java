@@ -13,7 +13,7 @@ public class DemoSb {
 		String s2= new String(sb);
 		System.out.print(s2);
 		
-		StringBuffer sb1=new StringBuffer("this is java program");
+		StringBuffer sb1=new StringBuffer("string buffer for git demo");
 		
 		
 		
