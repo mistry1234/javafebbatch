@@ -12,8 +12,7 @@ public class StringInJava {
 		System.out.print (s);
 		System.out.print(s.trim());
 		
-		
-		String s4="Created string for git demo";
+	
 		
 		
 		
